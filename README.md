@@ -19,7 +19,7 @@
 
 
 - Docker로 Redis HA 설정 및 테스트
-  - 작성 예정
+  - (테스트 중) https://github.com/develjsw/nestjs-redis-ha
 
 
 - Redis Memory 사용량 측정
